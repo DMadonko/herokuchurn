@@ -3,3 +3,4 @@ sklearn
 joblib
 gunicorn
 flask
+tensorflow
