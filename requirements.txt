@@ -3,7 +3,7 @@ scipy
 pandas
 matplotlib
 scikit-learn
-pickle
+six
 gunicorn
 flask
 
