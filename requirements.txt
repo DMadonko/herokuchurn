@@ -1,9 +1,5 @@
-numpy
-scipy
 pandas
-matplotlib
-scikit-learn
+sklearn
 joblib
 gunicorn
 flask
-tensorflow
